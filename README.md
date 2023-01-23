@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alexszokolay/Uoft-ECKS">
+  <a href="https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top">
     <img src="images/DiscordBot_Logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/alexszokolay/Uoft-ECKS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alexszokolay/Uoft-ECKS">View Demo</a>
+    <a href="https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top">View Demo</a>
     ·
-    <a href="https://github.com/alexszokolay/Uoft-ECKS/issues">Report Bug</a>
+    <a href="https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alexszokolay/Uoft-ECKS/issues">Request Feature</a>
+    <a href="https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/issues">Request Feature</a>
   </p>
 </div>
 
@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple example steps.
 2. Get a trial API key from [Co:here](https://cohere.ai/)
 3. Clone the repo
    ```sh
-   git clone https://github.com/alexszokolay/Uoft-ECKS.git
+   git clone https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top.git
    ```
 4. Enter your Token and API key in `.env`
    ```py
@@ -172,7 +172,7 @@ Alex Szokolay - [LinkedIn](https://www.linkedin.com/in/alex-szokolay/) - alex.sz
 
 Ivan Kraskov - [LinkedIn](https://www.linkedin.com/in/ivan-kraskov-b8827b22a/) - ivan.s.kraskov@gmail.com
 
-Project Link: [https://github.com/alexszokolay/Uoft-ECKS](https://github.com/alexszokolay/Uoft-ECKS)
+Project Link: [https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top](https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,15 +181,15 @@ Project Link: [https://github.com/alexszokolay/Uoft-ECKS](https://github.com/ale
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[contributors-url]: https://github.com/alexszokolay/Uoft-ECKS/graphs/contributors
+[contributors-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[forks-url]: https://github.com/alexszokolay/Uoft-ECKS/network/members
+[forks-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/network/members
 [stars-shield]: https://img.shields.io/github/stars/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[stars-url]: https://github.com/alexszokolay/Uoft-ECKS/stargazers
+[stars-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/stargazers
 [issues-shield]: https://img.shields.io/github/issues/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[issues-url]: https://github.com/alexszokolay/Uoft-ECKS/issues
+[issues-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/issues
 [license-shield]: https://img.shields.io/github/license/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[license-url]: https://github.com/alexszokolay/Uoft-ECKS/blob/master/LICENSE.txt
+[license-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
