@@ -18,7 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -84,7 +83,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `alexszokolay`, `Uoft-ECKS`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +170,7 @@ Alex Szokolay - [LinkedIn](https://www.linkedin.com/in/alex-szokolay/) - alex.sz
 
 Ivan Kraskov - [LinkedIn](https://www.linkedin.com/in/ivan-kraskov-b8827b22a/) - ivan.s.kraskov@gmail.com
 
-Project Link: [https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top](https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top)
+Project Link: [Repository](https://github.com/DavDeDev/UofTHacks-TravelTherapy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,16 +178,16 @@ Project Link: [https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top](h
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[contributors-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/DavDeDev/UofTHacks-TravelTherapy.svg?style=for-the-badge
+[contributors-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[forks-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/network/members
+[forks-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy/network/members
 [stars-shield]: https://img.shields.io/github/stars/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[stars-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/stargazers
+[stars-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy/stargazers
 [issues-shield]: https://img.shields.io/github/issues/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[issues-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/issues
-[license-shield]: https://img.shields.io/github/license/alexszokolay/Uoft-ECKS.svg?style=for-the-badge
-[license-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy#readme-top/blob/master/LICENSE.txt
+[issues-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/DavDeDev/UofTHacks-TravelTherapy/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
